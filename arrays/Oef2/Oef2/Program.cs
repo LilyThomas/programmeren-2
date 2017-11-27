@@ -6,7 +6,7 @@ namespace Oef2
     {
         public static void Main(string[] args)
         {
-            const int NUMBER_OF = 5;
+            const int NUMBER_OF = 20;
             int[] numbers = new int[NUMBER_OF];
             int[] demo = new int[NUMBER_OF];
 
