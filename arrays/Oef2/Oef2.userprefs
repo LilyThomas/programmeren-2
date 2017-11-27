@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BAC4F914-9050-4DCD-BBDB-EC4037374A9B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Oef2/Program.cs">
+    <Files>
+      <File FileName="Oef2/Program.cs" Line="30" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Oef2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
