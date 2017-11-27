@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{BAC4F914-9050-4DCD-BBDB-EC4037374A9B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Oef2/Program.cs">
     <Files>
-      <File FileName="Oef2/Program.cs" Line="30" Column="14" />
+      <File FileName="Oef2/Program.cs" Line="23" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
