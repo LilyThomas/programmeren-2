@@ -6,7 +6,7 @@ namespace Oef3
     {
         public static void Main(string[] args)
         {
-            const int NUMBER_OF = 5;
+            const int NUMBER_OF = 20;
             int[] numbers = new int[NUMBER_OF];
             int[] result = new int[NUMBER_OF];
 
