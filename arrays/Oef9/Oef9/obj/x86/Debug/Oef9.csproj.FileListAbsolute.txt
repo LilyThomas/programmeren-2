@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/Programmeren_2/arrays/Oef9/Oef9/bin/Debug/Oef9.exe
+/Users/lily/Documents/school/Programmeren_2/arrays/Oef9/Oef9/bin/Debug/Oef9.pdb
+/Users/lily/Documents/school/Programmeren_2/arrays/Oef9/Oef9/obj/x86/Debug/Oef9.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/Programmeren_2/arrays/Oef9/Oef9/obj/x86/Debug/Oef9.exe
+/Users/lily/Documents/school/Programmeren_2/arrays/Oef9/Oef9/obj/x86/Debug/Oef9.pdb

@@ -7,6 +7,7 @@ namespace Oef2
         public static void Main(string[] args)
         {
             const int NUMBER_OF = 20;
+            const int SPACES = 1;
             int[] numbers = new int[NUMBER_OF];
             int[] demo = new int[NUMBER_OF];
 
@@ -25,7 +26,7 @@ namespace Oef2
 
             for (int i = 0; i < numbers.Length; i++)
 			{
-                demo[(i + 1) % numbers.Length] = numbers[i];
+                demo[(i + SPACES) % numbers.Length] = numbers[i];
 			}
 
 

@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/Programmeren_2/Klassen/Oef5/Oef5/bin/Debug/Oef5.exe
+/Users/lily/Documents/school/Programmeren_2/Klassen/Oef5/Oef5/bin/Debug/Oef5.pdb
+/Users/lily/Documents/school/Programmeren_2/Klassen/Oef5/Oef5/obj/x86/Debug/Oef5.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/Programmeren_2/Klassen/Oef5/Oef5/obj/x86/Debug/Oef5.exe
+/Users/lily/Documents/school/Programmeren_2/Klassen/Oef5/Oef5/obj/x86/Debug/Oef5.pdb

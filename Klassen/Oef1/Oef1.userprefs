@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{030484FC-82C8-4708-8462-A613940C825B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Oef1/Persoon.cs">
+    <Files>
+      <File FileName="Oef1/Program.cs" Line="16" Column="37" />
+      <File FileName="Oef1/Persoon.cs" Line="14" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Oef1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

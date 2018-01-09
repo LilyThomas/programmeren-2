@@ -7,6 +7,7 @@ namespace Oef3
         public static void Main(string[] args)
         {
             const int NUMBER_OF = 20;
+            const int SPACES = 3;
             int[] numbers = new int[NUMBER_OF];
             int[] result = new int[NUMBER_OF];
 
@@ -26,7 +27,7 @@ namespace Oef3
 
             for (int i = 0; i < NUMBER_OF; i++)
             {
-                result[(i + 3) % numbers.Length] = numbers[i];
+                result[(i + SPACES) % numbers.Length] = numbers[i];
             }
 
             foreach(int i in result)

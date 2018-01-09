@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{95811F45-0257-4B8D-AE25-0EDBD141CE6E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Oef2/Kaart.cs">
+    <Files>
+      <File FileName="Oef2/Program.cs" Line="1" Column="1" />
+      <File FileName="Oef2/Kaart.cs" Line="38" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Oef2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

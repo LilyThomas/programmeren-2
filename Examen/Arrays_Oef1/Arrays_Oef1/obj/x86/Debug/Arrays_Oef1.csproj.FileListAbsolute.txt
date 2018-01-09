@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/Programmeren_2/Examen/Arrays_Oef1/Arrays_Oef1/bin/Debug/Arrays_Oef1.exe
+/Users/lily/Documents/school/Programmeren_2/Examen/Arrays_Oef1/Arrays_Oef1/bin/Debug/Arrays_Oef1.pdb
+/Users/lily/Documents/school/Programmeren_2/Examen/Arrays_Oef1/Arrays_Oef1/obj/x86/Debug/Arrays_Oef1.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/Programmeren_2/Examen/Arrays_Oef1/Arrays_Oef1/obj/x86/Debug/Arrays_Oef1.exe
+/Users/lily/Documents/school/Programmeren_2/Examen/Arrays_Oef1/Arrays_Oef1/obj/x86/Debug/Arrays_Oef1.pdb

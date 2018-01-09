@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{24627126-5011-4EBC-B7AB-286D80DB33AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Oef5/Bankrekening.cs">
+    <Files>
+      <File FileName="Oef5/Program.cs" Line="1" Column="1" />
+      <File FileName="Oef5/Bankrekening.cs" Line="51" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Oef5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
